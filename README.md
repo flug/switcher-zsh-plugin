@@ -23,7 +23,7 @@ create many profiles
 ##If you want a perfect integration
 
 
-[https://gist.githubusercontent.com/flug/062c879cd6ae6504b841/raw/7946a4d604cb6dfb625871c75c684100b8ff2997/persona.zsh-theme](persona.zsh-theme)
+[persona.zsh-theme](https://gist.githubusercontent.com/flug/062c879cd6ae6504b841/raw/7946a4d604cb6dfb625871c75c684100b8ff2997/persona.zsh-theme)
 
 ```
    wget https://gist.githubusercontent.com/flug/062c879cd6ae6504b841/raw/7946a4d604cb6dfb625871c75c684100b8ff2997/persona.zsh-theme -o ~/.oh-my-zsh/custom/themes/persona.zsh-theme
