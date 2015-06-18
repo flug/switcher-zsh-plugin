@@ -3,7 +3,9 @@ Switcher persona plugin zsh
 
 
 #Prerequis 
+
 Install persona in you pc 
+
 create many profiles
 
 ##Clone plugin :
