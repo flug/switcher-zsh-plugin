@@ -8,10 +8,12 @@ create many profiles
 
 ##Clone plugin :
 
-  git clone https://github.com/flug/switcher-zsh-plugin.git ~/.oh-my-zsh/custom/plugins/switcher
-
+```
+    git clone https://github.com/flug/switcher-zsh-plugin.git ~/.oh-my-zsh/custom/plugins/switcher
+```
 
 ##Add in you ```.zshrc``` 
 
-
-  plugins=(switcher)
+```
+    plugins=(switcher)
+```
